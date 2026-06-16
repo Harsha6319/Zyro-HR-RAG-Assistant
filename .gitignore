@@ -1,0 +1,19 @@
+# Environment files
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local vector store indices
+vectorstore/
+
+# Data policies
+data/
+
+# Local CSV submissions or temporary tables
+*.csv
+submission.csv
+
+# Streamlit config (if you want to keep theme private)
+.streamlit/
