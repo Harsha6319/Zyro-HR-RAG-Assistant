@@ -6,10 +6,10 @@ __pycache__/
 *.pyc
 
 # Local vector store indices
-vectorstore/
+# vectorstore/
 
 # Data policies
-data/
+# data/
 
 # Local CSV submissions or temporary tables
 *.csv
